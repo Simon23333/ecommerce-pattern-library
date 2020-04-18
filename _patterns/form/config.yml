@@ -1,0 +1,8 @@
+title: "Form"
+description: |
+  You can complete the registration in the form.
+patterns:
+  form-1:
+    title: "Registration"
+    description: |
+      This is a registration form.

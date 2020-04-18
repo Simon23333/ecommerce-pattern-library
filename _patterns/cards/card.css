@@ -1,0 +1,8 @@
+.card {
+  max-width: 25rem;
+  margin: .7rem auto;
+  padding: 2rem;
+  border-radius: 20px;
+  background-color: var(--color-secondary-light);
+  border: 2px solid var(--color-primary);
+}
