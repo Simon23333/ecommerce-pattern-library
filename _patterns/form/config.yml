@@ -1,8 +1,12 @@
 title: "Form"
 description: |
-  You can complete the registration in the form.
+  You can complete the registration and checkout in the form.
 patterns:
   form-1:
     title: "Registration"
     description: |
       This is a registration form.
+  form-2:
+    title: "Checkout"
+    description: |
+      This is a check out form.

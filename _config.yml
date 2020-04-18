@@ -17,4 +17,8 @@ patternbot:
       colors.primary: |
         The primary colours because it expresses the theme well.
       colors.secondary: |
-        The secondary colour are..
+        The secondary colour are clean and strightforward.
+
+  layouts:
+    default: |
+      The default layout should be used for almost every page, it includes the website's primary header & footer.

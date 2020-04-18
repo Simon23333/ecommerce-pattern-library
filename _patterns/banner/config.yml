@@ -1,0 +1,20 @@
+title: "Banner"
+description: |
+  This is all banner we needed.
+patterns:
+    banner-1:
+      fields:
+        - name: heading
+          type: string
+          example: "Like an angel ...!"
+      title: "Home page banner"
+      description: |
+        This is a home page banner.
+    banner-2:
+      fields:
+        - name: heading
+          type: string
+          example: "Light up Your Moment"
+      title: "Products page banner"
+      description: |
+        This is a product page banner.

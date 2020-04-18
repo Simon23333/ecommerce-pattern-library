@@ -51,11 +51,11 @@ q {
   font-family: var(--font-primary);
   font-style: bold;
   font-weight: normal;
-  color: var(--color-secondary);
+  color: var(--color-primary);
 }
 
 em, strong, del, ins, abbr, dfn, i, b, u, s, mark {
   font-family: var(--font-primary);
   font-weight: normal;
-  color: var(--color-secondary);
+  color: var(--color-primary);
 }
